@@ -1,0 +1,8 @@
+{
+    "name": "webworker-childproc-showdown",
+    "private": true,
+    "version": "0.0.1",
+    "dependencies": {
+        "webworker-threads": "*"
+    }
+}
