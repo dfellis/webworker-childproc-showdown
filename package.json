@@ -3,6 +3,6 @@
     "private": true,
     "version": "0.0.1",
     "dependencies": {
-        "webworker-threads": "git://github.com/uber/node-webworker-threads.git"
+        "webworker-threads": "0.4.4"
     }
 }
